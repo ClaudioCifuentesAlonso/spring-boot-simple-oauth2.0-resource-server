@@ -14,7 +14,7 @@ This application uses the following OAuth2.0 dependency to run as Resource Serve
 ```
 
 This application has a couple of extra dependencies:
-1. This application communicates with a Keycloak Authorization server, here are the instructions to configure it [Keycloak configuration]().
+1. This application communicates with a Keycloak Authorization server, here are the instructions to configure it [Keycloak configuration](https://claudiocifuentes.atlassian.net/l/c/sESWWPFW).
 2. This application is configured as eureka client so, Eureka server must be running on port 8010 here is the [Eureka service discovery repository](https://github.com/ClaudioCifuentesAlonso/oauth2.0-eureka-discovery-service.git).
 
 To run this application:
